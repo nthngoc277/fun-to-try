@@ -20,11 +20,10 @@ It can be used directly, or (for programmers) using an API to extract printed te
 
 https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc
 
------
 Open3.capture3 captures the standard output and the standard error of a command.
 https://www.rubydoc.info/stdlib/open3/Open3.capture3
 
-## Ref: 
+## Reference
 
 https://aonemd.github.io/blog/extracting-text-from-images-using-ruby
 
