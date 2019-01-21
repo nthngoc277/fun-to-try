@@ -1,7 +1,12 @@
 # loops through each file in source directory and reads it as a grayscale
+require 'bundler/inline'
 require 'pathname'
 require 'open3'
-require 'mini_magick'
+
+gemfile do
+  source 'https://rubygems.org'
+  gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+end
 
 SRC_DIR = 'extracting-text-fom-images-using-ruby/source_images'.freeze
 TMP_DIR = 'extracting-text-fom-images-using-ruby/tmp'.freeze
