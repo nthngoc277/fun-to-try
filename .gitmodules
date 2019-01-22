@@ -1,0 +1,3 @@
+[submodule "react-rails-app"]
+	path = react-rails-app
+	url = ./react-rails-app
