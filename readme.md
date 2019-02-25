@@ -2,4 +2,4 @@
 
 [1. Extract text from image using Ruby](extracting-text-fom-images-using-ruby/readme.md)
 
-[2. React vs Ruby on Rails app](react-rails-app/README.md)
+[2. Lazy enumerators](lazy-enumerators/readme.md)
